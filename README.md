@@ -1,6 +1,7 @@
 # IoT-Task2
 
-Description of task :Serial communication between two Arduino boards ,so that when you press the Button on the first Arduino, the LED on the second Arduino will turn on.
+Description of task :
+Serial communication between two Arduino boards ,so that when you press the Button on the first Arduino, the LED on the second Arduino will turn on.
 
 Hardware :
 
